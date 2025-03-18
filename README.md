@@ -155,3 +155,11 @@ if (interpreter->Invoke() != kTfLiteOk) {
 
 This step runs inference on the input data. 
 
+
+---
+
+### Links
+
+https://www.teachmemicro.com/tinyml-with-esp32-tutorial/
+https://www.tensorflow.org/api_docs/python/tf/keras/layers
+
